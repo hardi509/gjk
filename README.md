@@ -10,7 +10,7 @@ Follow this steps :
 
 4. pkg install git
 
-5. git clone https://github.com/vey251/gjk
+5. git clone https://github.com/brotowali1927/gjk
 
 6. cd gjk
 
